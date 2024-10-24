@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+.task { display: flex; align-items: center; }
+.task input { margin-right: 10px; }
+
